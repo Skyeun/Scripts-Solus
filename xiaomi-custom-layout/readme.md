@@ -12,7 +12,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Installation
 
-1- Clone this repo
-2- `cd xiaomi-custom-layout`
-3- `sudo ./setup.sh`
-4- Relog and select English (United States)->English (US)
+1. Clone this repo
+2. `cd xiaomi-custom-layout`
+3. `sudo ./setup.sh`
+4. Relog and select English (United States)->English (US)
