@@ -9,6 +9,6 @@ else
     sudo rm /usr/share/X11/xkb/symbols/us
     sudo cp /usr/share/X11/xkb/symbols/us.bak /usr/share/X11/xkb/symbols/us
     echo "Session will restart"
-    sleep 5
+    sleep 2
     sudo systemctl restart lightdm.service
 fi
