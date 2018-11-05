@@ -8,7 +8,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Keymap
 
-![alt text](https://raw.githubusercontent.com/Skyeun/Scripts-Solus/master/layout.png)
+![alt text](https://raw.githubusercontent.com/Skyeun/Scripts-Solus/master/xiaomi-custom-layout/layout.png)
 
 ## Installation
 
