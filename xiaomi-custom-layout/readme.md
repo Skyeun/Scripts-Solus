@@ -15,4 +15,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 1. Clone this repo
 2. `cd xiaomi-custom-layout`
 3. `sudo ./setup.sh`
-4. Relog and select English (United States)->English (US)
+4. Relog and select US layout in Settings->Region & Language->Input Source->English (United States)->English (US)
+
+## Remove
+
+1. Run `sudo ./uninstall.sh`
+2. Relog and select your keyboard layout in Settings->Region & Language->Input Source
