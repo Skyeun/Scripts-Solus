@@ -13,9 +13,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## Installation
 
 1. Clone this repo
-2. `cd xiaomi-custom-layout`
-3. `sudo ./setup.sh`
-4. Relog and select US layout in Settings->Region & Language->Input Source->English (United States)->English (US)
+2. `cd `
+3. `cd xiaomi-custom-layout`
+4. `sudo ./setup.sh`
+5. Relog and select US layout in Settings->Region & Language->Input Source->English (United States)->English (US)
 
 ## Remove
 

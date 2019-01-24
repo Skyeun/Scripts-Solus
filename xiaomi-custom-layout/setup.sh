@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Check if user is root
-if [ "$(id -u)" != "0" ]; then^\}(?!.*\})
+if [ "$(whoami)" != 'root' ];
     echo "You must be root to run this script" >&2
     clear
     exit 1
